@@ -19,7 +19,7 @@ The quirk we need to add to usbhid, does the following:
 0x05ac:0x8242:0x40000010
 ```
 * 0x05ac is the vendor ID (In this case it is Apple)
-* 0x8242 is the product ID (as seen with running lsusb command)
+* 0x8242 is the product ID (found by running lsusb command)
 * 0x10 is "HID_QUIRK_HIDDEV_FORCE" and 0x40000000 is "HID_QUIRK_NO_IGNORE"
 
 add the following line to `/boot/cmdline.txt`
