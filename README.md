@@ -1,3 +1,7 @@
+### Parts
+* APPLE IR RECIEVER _APPLE PART NUMBER: 820-2540-A_
+
+
 ### Wiring the APPLE IR reciever to usb
 
 As you can see on the wiring diagram. The pin next to the "V" marked on the board is D- and then it is D+, 5V, GND:
