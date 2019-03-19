@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/MadsLudvig/appleirreciever/master/Apple%20IR%20to%20usb%20diagram.png)
+![alt text](https://raw.githubusercontent.com/MadsLudvig/appleirreciever/master/Apple%20IR%20to%20usb%20diagram.png?token=AhbQcaTgsNl_bHviLEdJ7d5b_S_f6k18ks5cmfjdwA%3D%3D)
 
 ### Using the correct driver
 
