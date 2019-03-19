@@ -1,4 +1,4 @@
-# RASPBERRY PI WITH IR TRANSMITTER AND APPLE IR RECIEVER
+# Raspberry pi with IR transmitter and Apple IR reciever
 
 ### Parts
 * Apple IR Reciever (_APPLE PART NUMBER: 820-2540-A_)
