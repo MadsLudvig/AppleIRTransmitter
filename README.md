@@ -96,3 +96,4 @@ Sources:
 * [Infrared in Linux: LIRC](https://idebian.wordpress.com/2008/07/15/infrared-in-linux-lirc/)
 * [IR HTPC Macmini](https://forum.kodi.tv/showthread.php?tid=260292)
 * [Getting Apple Remote, Macbook and LIRC work together](https://cweiske.de/tagebuch/Getting%20Apple%20Remote,%20Macbook%20and%20LIRC%20work%20together.htm)
+* [Disabling APPLEIR kernel module](https://lwn.net/Articles/407938/)
