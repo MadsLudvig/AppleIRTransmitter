@@ -1,5 +1,7 @@
 ### Parts
-* APPLE IR RECIEVER _APPLE PART NUMBER: 820-2540-A_
+* Apple IR Reciever (_APPLE PART NUMBER: 820-2540-A_)
+* USB-A Header
+* Raspberry Pi
 
 
 ### Wiring the APPLE IR reciever to usb
