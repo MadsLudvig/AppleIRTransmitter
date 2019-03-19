@@ -22,15 +22,10 @@ The quirk we need to add to usbhid, contains following:
 * With 0x8242 being the product ID (check the output of lsusb for your hardware)
 * And 0x10 being "HID_QUIRK_HIDDEV_FORCE" and 0x40000000 being "HID_QUIRK_NO_IGNORE"
 
-add the following line:
+add the following line to `/boot/cmdline.txt`
 ```
 usbhid.quirks=0x05ac:0x8242:0x40000010
 ```
-to this file:
-```
-$ sudo nano /boot/cmdline.txt
-```
-
 Then reboot
 ```
 $ sudo shutdown -r now
