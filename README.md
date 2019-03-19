@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/MadsLudvig/appleirreciever/master/Apple%20IR%20to%20usb%20diagram.png)
+
 ### Using the correct driver
 
 To make usbhid driver use the Apple IR receiver as dev/usb/hiddev instead of dev/input/hidraw,
