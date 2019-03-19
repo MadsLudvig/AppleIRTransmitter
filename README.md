@@ -67,7 +67,7 @@ After configuring the file, we will need to restart LIRC, like this:
 ```
 $ sudo invoke-rc.d lirc restart
 ```
-Then we can test if our config is working by running, and pressing buttons on the remote:
+Then we can test if our config is working by pressing buttons on the remote, while running:
 ```
 $ irw
 ```
