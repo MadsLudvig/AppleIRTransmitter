@@ -1,4 +1,4 @@
-#### Using the correct driver
+### Using the correct driver
 
 To make usbhid driver use the Apple IR receiver as dev/usb/hiddev instead of dev/input/hidraw,
 
@@ -26,13 +26,13 @@ output should be something like:
 crw-rw---- 1 root root 180, 96 2008-07-13 07:48 hiddev0
 ```
 
-#### Installing LIRC
+### Installing LIRC
 
 To install use this command:
 ```
 $ sudo apt-get install lirc
 ```
-#### Configuring LIRC
+### Configuring LIRC
 
 We will need to configure two files:
 
@@ -66,7 +66,7 @@ Then we can test if our config is working, by running:
 $ irw
 ```
 
-#### Executing specific command when key is pressed
+### Executing specific command when key is pressed
 With this project, we want to execute a specific command, when a specific keycode is pressed. This can be done with irexec
 
 First we will need to config the irexec.lircrc
