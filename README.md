@@ -10,7 +10,7 @@
 
 As you can see on the wiring diagram. On the back of the board where the connector is located, the pin next to the "V" marked on the board is D- and then it is D+, 5V, GND:
 
-![IR-USB WIRING](https://raw.githubusercontent.com/MadsLudvig/appleirreciever/master/Apple%20IR%20to%20USB%20diagram.png?token=AhbQcft3VSZmJF12g7u1r2Q7ubq1VCdiks5cmjoNwA%3D%3D)
+![IR-USB WIRING](https://raw.githubusercontent.com/MadsLudvig/appleirreciever/master/Apple%20IR%20to%20USB%20diagram.png?token=AhbQca3Y0qHCWVLtq-2JUMBIZzW2O2CXks5cmjzdwA%3D%3D)
 
 ### Using the correct driver
 
