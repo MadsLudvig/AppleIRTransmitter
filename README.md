@@ -14,8 +14,10 @@ As you can see on the wiring diagram. The pin next to the "V" marked on the boar
 
 To make usbhid driver use the Apple IR receiver as dev/usb/hiddev instead of dev/input/hidraw,
 
-The quirk we need to add to usbhid, does the following:
-
+The quirk we need to add to usbhid, contains following:
+```
+0x05ac:0x8242:0x40000010
+```
 * With 0x05ac being the vendor ID (Apple, you shouldn't need to change this)
 * With 0x8242 being the product ID (check the output of lsusb for your hardware)
 * And 0x10 being "HID_QUIRK_HIDDEV_FORCE" and 0x40000000 being "HID_QUIRK_NO_IGNORE"
