@@ -65,7 +65,7 @@ $ sudo irrecord -H macmini -d /dev/usb/hiddev0 /etc/lirc/lircd.conf
 ```
 After configuring the file, we will need to restart LIRC, like this:
 ```
-$ sudo invoke-rc.d lirc restart
+$ sudo service lirc restart
 ```
 Then we can test if our config is working by pressing buttons on the remote, while running:
 ```
