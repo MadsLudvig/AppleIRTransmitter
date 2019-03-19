@@ -85,7 +85,7 @@ begin
     config = echo "KEY_1"
 end
 ```
-We just need to change config to a command we would like to execute everytime, that a key is recieved
+We just need to change config to a command we would like to execute everytime, the specific key is recieved
 ```
 config = [command of your choice]
 ```
