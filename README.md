@@ -10,7 +10,7 @@ At the time i only had an old tv remote and an old imac ir reciever, so i decide
 
 The main reason i'm making this guide, is to help those wanting to connect their apple ir reciever to their linux machine.
 
-### Parts
+### <a name="Parts"><a/>
 * Apple IR Reciever (_APPLE PART NUMBER: 820-2540-A_)
 * USB-A Header
 * Raspberry Pi
