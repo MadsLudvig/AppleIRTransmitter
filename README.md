@@ -1,5 +1,10 @@
 # Raspberry pi with IR transmitter and Apple IR reciever
 
+### Foreword
+
+This project started with me thinking of how i could make my apple silver remote work with my B&O sound system.
+So i decided to use a raspberry pi with an IR reciever and transmitter, to recieve the signals from my apple remote and send corresponding signals to my B&O sound system
+
 ### Parts
 * Apple IR Reciever (_APPLE PART NUMBER: 820-2540-A_)
 * USB-A Header
